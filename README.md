@@ -1,6 +1,6 @@
 # Nordic Nightfall
 
-A dark Omarchy theme inspired by a Nordic winter night: deep blue-black surfaces, muted cold-blue accents, dark-blue focus borders, and an emerald aurora above snow-shadowed mountains.
+A dark Omarchy theme inspired by a Nordic winter night: deep blue-black surfaces, muted cold-blue accents, dark-blue focus borders, and an emerald Aurora Borealis above snow-shadowed mountains. Two new forest wallpapers have been added, both featuring fir, pine, and birch around a warm-lit cabin beside a flowing river and beneath a green Aurora Borealis. One image is slightly darker with trees around the log cabin, while one has a clearing around the cabin and is slightly lit up by the cabins lighting.
 
 **Author:** Z1Z0R  
 **Repository:** [https://github.com/Z1Z0R/Nordic-Nightfall](https://github.com/Z1Z0R/Nordic-Nightfall)  
@@ -41,8 +41,8 @@ All four included wallpapers were generated specifically for this theme with Ope
 
 - `backgrounds/001-nordic-winter-shadowed-snow.png` is the darker, cooler night-snow version.
 - `backgrounds/002-nordic-winter-aurora-lit-snow.png` has brighter aurora-lit slopes.
-- `backgrounds/003-nordic-forest-cabin.png` shows a snow-covered Nordic forest, cabin, and river beneath a broad aurora.
-- `backgrounds/004-nordic-forest-cabin-clearing.png` frames the cabin with fir, pine, and birch trees around an open clearing.
+- `backgrounds/003-nordic-forest-cabin.png` is the slightly darker version, with fir, pine, and birch trees around the log cabin beside the flowing river and green aurora.
+- `backgrounds/004-nordic-forest-cabin-clearing.png` shows a snowy clearing around the cabin, with fir, pine, and birch trees, the same flowing river and green aurora, and snow softly lit by the cabin’s lighting.
 
 Use `omarchy theme bg next` to cycle between the backgrounds after installing the theme.
 
