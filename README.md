@@ -35,6 +35,10 @@ theme is selected, then restores the GTK stylesheets that were in place before
 installation when you switch to another theme. Close and reopen Files after
 switching themes so it reloads the active GTK styles.
 
+## Wallpapers
+
+![All four Nordic Nightfall wallpapers in a compact 2×2 collage](submission-assets/wallpapers-collage.webp)
+
 ## Wallpaper credits
 
 All four included wallpapers were generated specifically for this theme with OpenAI Image Generation; no external source photograph was used. Each is 3840 × 2160, upscaled from a 1672 × 941 generated image with Lanczos resampling.
@@ -49,3 +53,4 @@ Use `omarchy theme bg next` to cycle between the backgrounds after installing th
 The palette and included generated wallpapers are provided under the MIT License
 in this repository. The adapted Yaru folder icons retain their CC BY-SA 4.0
 license; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
