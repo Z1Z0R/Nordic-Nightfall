@@ -12,17 +12,31 @@ A dark Omarchy theme inspired by a Nordic winter night: deep blue-black surfaces
 
 The 4K source capture is included at `submission-assets/nordic-nightfall-4k.png`.
 
-## Wallpaper preview
+## Omarchy theme menu preview
 
-![Nordic Nightfall wallpaper preview](preview.png)
+![Nordic Nightfall desktop preview captured from DP-2](preview.png)
 
 ## Install
 
-After this repository is public on GitHub:
+Install from GitHub:
 
 ```sh
-omarchy theme install https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme.git
+omarchy theme install https://github.com/Z1Z0R/nordic-nightfall.git
 ```
+
+The theme uses a custom, darker blue variant of the Yaru folder icons and applies
+its GTK colors only while Nordic Nightfall is active. Install the appearance
+hook, then apply the theme:
+
+```sh
+omarchy hook install theme-set ~/.config/omarchy/themes/nordic-nightfall/hooks/50-nordic-nightfall-appearance
+omarchy theme set nordic-nightfall
+```
+
+The hook installs the icon overlay and applies Files-only GTK styles when this
+theme is selected, then restores the GTK stylesheets that were in place before
+installation when you switch to another theme. Close and reopen Files after
+switching themes so it reloads the active GTK styles.
 
 ## Wallpaper credits
 
@@ -33,4 +47,6 @@ Both included wallpapers were generated specifically for this theme with OpenAI 
 
 Use `omarchy theme bg next` to cycle between the backgrounds after installing the theme.
 
-The palette and included generated wallpaper are provided under the MIT License in this repository.
+The palette and included generated wallpaper are provided under the MIT License
+in this repository. The adapted Yaru folder icons retain their CC BY-SA 4.0
+license; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
