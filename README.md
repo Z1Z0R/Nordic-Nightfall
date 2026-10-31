@@ -1,6 +1,6 @@
 # Nordic Nightfall
 
-A dark Omarchy theme inspired by a Nordic winter night: deep blue-black surfaces, muted cold-blue accents, dark-blue focus borders, and an emerald Aurora Borealis above snow-shadowed mountains. Two forest wallpapers feature fir, pine, and birch around a warm-lit cabin beside a flowing river and beneath a green Aurora Borealis. One is slightly darker, with trees around the log cabin; the other has a snowy clearing softly lit by the cabin. Two frozen-lake wallpapers show a broad green aurora over a snow-lined lake: one has an open horizon, while the other places the lake in a valley framed by wooded hills.
+A dark Omarchy theme inspired by a Nordic winter night: deep blue-black surfaces, muted cold-blue accents, dark-blue focus borders, and an emerald Aurora Borealis above snow-shadowed mountains. Two forest wallpapers feature fir, pine, and birch around a warm-lit cabin beside a flowing river and beneath a green Aurora Borealis. One is slightly darker, with trees around the log cabin; the other has a snowy clearing softly lit by the cabin. Two frozen-lake wallpapers show the same detailed, gently sweeping green aurora above a broad snow-lined lake: one has a low, tree-lined horizon, while the other places the lake in a valley framed by wooded hills.
 
 **Author:** Z1Z0R  
 **Repository:** [https://github.com/Z1Z0R/Nordic-Nightfall](https://github.com/Z1Z0R/Nordic-Nightfall)  
@@ -47,8 +47,8 @@ All six included wallpapers were generated specifically for this theme with Open
 - `backgrounds/002-nordic-winter-aurora-lit-snow.png` has brighter aurora-lit slopes.
 - `backgrounds/003-nordic-forest-cabin.png` is the slightly darker version, with fir, pine, and birch trees around the log cabin beside the flowing river and green aurora.
 - `backgrounds/004-nordic-forest-cabin-clearing.png` shows a snowy clearing around the cabin, with fir, pine, and birch trees, the same flowing river and green aurora, and snow softly lit by the cabin’s lighting.
-- `backgrounds/005-nordic-frozen-lake-aurora.png` shows a broad, distant green aurora above a frozen lake with an open, tree-lined horizon.
-- `backgrounds/006-nordic-frozen-lake-valley.png` shows the same aurora above a frozen lake in a valley framed by wooded hills; the aurora stays clear of the hill silhouettes.
+- `backgrounds/005-nordic-frozen-lake-aurora.png` shows a broad frozen lake beneath the detailed, low green aurora, with a mostly level, tree-lined horizon and a soft reflection across the ice.
+- `backgrounds/006-nordic-frozen-lake-valley.png` shows the same aurora above a frozen lake between wooded hills that form a valley, with the aurora visible in the open sky above the distant hills.
 
 Use `omarchy theme bg next` to cycle between the backgrounds after installing the theme.
 
