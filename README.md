@@ -37,13 +37,14 @@ switching themes so it reloads the active GTK styles.
 
 ## Wallpaper credits
 
-Both included wallpapers were generated specifically for this theme with OpenAI Image Generation; no external source photograph was used. Each is 3840 × 2160, upscaled from a 1672 × 941 generated image with Lanczos resampling.
+All three included wallpapers were generated specifically for this theme with OpenAI Image Generation; no external source photograph was used. Each is 3840 × 2160, upscaled from a 1672 × 941 generated image with Lanczos resampling.
 
 - `backgrounds/001-nordic-winter-shadowed-snow.png` is the darker, cooler night-snow version.
 - `backgrounds/002-nordic-winter-aurora-lit-snow.png` has brighter aurora-lit slopes.
+- `backgrounds/003-nordic-forest-cabin.png` shows a snow-covered Nordic forest, cabin, and river beneath a broad aurora.
 
 Use `omarchy theme bg next` to cycle between the backgrounds after installing the theme.
 
-The palette and included generated wallpaper are provided under the MIT License
+The palette and included generated wallpapers are provided under the MIT License
 in this repository. The adapted Yaru folder icons retain their CC BY-SA 4.0
 license; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
