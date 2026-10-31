@@ -3,6 +3,7 @@
 A dark Omarchy theme inspired by a Nordic winter night: deep blue-black surfaces, muted cold-blue accents, dark-blue focus borders, and an emerald aurora above snow-shadowed mountains.
 
 **Author:** Z1Z0R  
+**Repository:** [https://github.com/Z1Z0R/Nordic-Nightfall](https://github.com/Z1Z0R/Nordic-Nightfall)  
 **Mode:** Dark  
 **Tags:** nordic, winter, aurora, blue, dark
 
@@ -21,7 +22,7 @@ The 4K source capture is included at `submission-assets/nordic-nightfall-4k.png`
 Install from GitHub:
 
 ```sh
-omarchy theme install https://github.com/Z1Z0R/nordic-nightfall.git
+omarchy theme install https://github.com/Z1Z0R/Nordic-Nightfall.git
 ```
 
 The theme uses a custom, darker blue variant of the Yaru folder icons and applies
