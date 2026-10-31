@@ -13,10 +13,6 @@ A dark Omarchy theme inspired by a Nordic winter night: deep blue-black surfaces
 
 The 4K source capture is included at `submission-assets/nordic-nightfall-4k.png`.
 
-## Omarchy theme menu preview
-
-![Nordic Nightfall desktop preview captured from DP-2](preview.png)
-
 ## Install
 
 Install from GitHub:
