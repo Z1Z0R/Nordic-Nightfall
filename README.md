@@ -3,7 +3,7 @@
 A dark Omarchy theme inspired by a Nordic winter night: deep blue-black surfaces, muted cold-blue accents, dark-blue focus borders, and an emerald Aurora Borealis above snow-shadowed mountains. Two forest wallpapers feature fir, pine, and birch around a warm-lit cabin beside a flowing river and beneath a green Aurora Borealis. One is slightly darker, with trees around the log cabin; the other has a snowy clearing softly lit by the cabin. Two frozen-lake wallpapers show the same detailed, gently sweeping green aurora above broad snow-lined lakes. Their ice has a smoother, more natural finish with soft cracks and subdued aurora reflections; one has a low, tree-lined horizon, while the other places the lake in a valley framed by wooded hills.
 
 **Author:** Z1Z0R  
-**Repository:** [https://github.com/Z1Z0R/Nordic-Nightfall](https://github.com/Z1Z0R/Nordic-Nightfall)  
+**Repository:** [https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme](https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme)<br>
 **Mode:** Dark  
 **Tags:** nordic, winter, aurora, blue, dark
 
@@ -18,7 +18,7 @@ The 4K source capture is included at `submission-assets/nordic-nightfall-4k.png`
 Install from GitHub:
 
 ```sh
-omarchy theme install https://github.com/Z1Z0R/Nordic-Nightfall.git
+omarchy theme install https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme.git
 ```
 
 The theme uses a custom, darker blue variant of the Yaru folder icons and applies
