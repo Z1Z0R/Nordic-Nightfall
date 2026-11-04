@@ -1,6 +1,6 @@
 # Nordic Nightfall
 
-A dark Omarchy theme inspired by a Nordic winter night: deep blue-black surfaces, muted cold-blue accents, dark-blue focus borders, and an emerald Aurora Borealis above snow-shadowed mountains. Two forest wallpapers feature fir, pine, and birch around a warm-lit cabin beside a flowing river and beneath a green Aurora Borealis. One is slightly darker, with trees around the log cabin; the other has a snowy clearing softly lit by the cabin. Two frozen-lake wallpapers show the same detailed, gently sweeping green aurora above broad snow-lined lakes. Their ice has a smoother, more natural finish with soft cracks and subdued aurora reflections; one has a low, tree-lined horizon, while the other places the lake in a valley framed by wooded hills.
+A dark Omarchy theme inspired by a Nordic winter night: deep blue-black surfaces, muted cold-blue accents, dark-blue focus borders, and an emerald Aurora Borealis above snow-shadowed mountains. Two forest wallpapers feature fir, pine, and birch around a warm-lit cabin beside a flowing river and beneath a green Aurora Borealis. One is slightly darker, with trees around the log cabin; the other has a snowy clearing softly lit by the cabin. Two frozen-lake wallpapers show gently sweeping green auroras with delicate luminous filaments and translucent folds above broad snow-lined lakes. Dark ice, subtle cracks, and soft reflections fill the foreground; one has a low, tree-lined horizon, while the other places the lake in a valley framed by wooded hills.
 
 **Author:** Z1Z0R  
 **Repository:** [https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme](https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme)<br>
@@ -41,14 +41,14 @@ switching themes so it reloads the active GTK styles.
 
 ## Wallpaper credits
 
-All six included wallpapers were generated specifically for this theme with OpenAI Image Generation; no external source photograph was used. Each is 3840 × 2160, upscaled from a 1672 × 941 generated image with Lanczos resampling.
+All six included wallpapers were generated specifically for this theme with OpenAI Image Generation; no external source photograph was used. Each is 3840 × 2160, upscaled from a 1672 × 941 generated image with Lanczos resampling. The frozen-lake auroras were refined at the original generated resolution before upscaling, with no added sharpening.
 
 - `backgrounds/001-nordic-winter-shadowed-snow.png` is the darker, cooler night-snow version.
 - `backgrounds/002-nordic-winter-aurora-lit-snow.png` has brighter aurora-lit slopes.
 - `backgrounds/003-nordic-forest-cabin.png` is the slightly darker version, with fir, pine, and birch trees around the log cabin beside the flowing river and green aurora.
 - `backgrounds/004-nordic-forest-cabin-clearing.png` shows a snowy clearing around the cabin, with fir, pine, and birch trees, the same flowing river and green aurora, and snow softly lit by the cabin’s lighting.
-- `backgrounds/005-nordic-frozen-lake-aurora.png` shows a broad frozen lake beneath the detailed, low green aurora, with a mostly level, tree-lined horizon, smoother dark ice, subtle cracks, and subdued aurora reflections.
-- `backgrounds/006-nordic-frozen-lake-valley.png` shows the same aurora above a frozen lake between wooded hills that form a valley, with the aurora visible in the open sky above the distant hills; the ice has a smoother finish, soft cracks, and subdued aurora reflections.
+- `backgrounds/005-nordic-frozen-lake-aurora.png` shows a broad frozen lake with a mostly level, tree-lined horizon beneath a low green aurora of delicate filaments and layered folds, reflected softly across dark, subtly cracked ice.
+- `backgrounds/006-nordic-frozen-lake-valley.png` shows a frozen lake between wooded hills that form a valley, with narrow green aurora rays and translucent folds sweeping through the open sky above the distant hills, reflected across the dark ice.
 
 Use `omarchy theme bg next` to cycle between the backgrounds after installing the theme.
 
