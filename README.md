@@ -21,19 +21,16 @@ Install from GitHub:
 omarchy theme install https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme.git
 ```
 
-The theme uses a custom, darker blue variant of the Yaru folder icons and applies
-its GTK colors only while Nordic Nightfall is active. Install the appearance
-hook, then apply the theme:
+## Optional Files appearance
 
-```sh
-omarchy hook install theme-set ~/.config/omarchy/themes/nordic-nightfall/hooks/50-nordic-nightfall-appearance
-omarchy theme set nordic-nightfall
-```
+The theme includes GTK styles for Files and a custom, darker blue variant of the
+Yaru folder icons. The optional appearance hook installs the icon overlay and
+applies the Files colors while Nordic Nightfall is active. When you switch to
+another theme, it restores the GTK stylesheets saved on its first run.
 
-The hook installs the icon overlay and applies Files-only GTK styles when this
-theme is selected, then restores the GTK stylesheets that were in place before
-installation when you switch to another theme. Close and reopen Files after
-switching themes so it reloads the active GTK styles.
+Install the hook separately using the instructions in the
+[Nordic Nightfall theme hook repository](https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme-hook).
+Close and reopen Files after switching themes so it reloads the active GTK styles.
 
 ## Wallpapers
 
@@ -43,12 +40,12 @@ switching themes so it reloads the active GTK styles.
 
 All six included wallpapers were generated and refined specifically for this theme with OpenAI Image Generation; no external source photograph was used. Each is 3840 × 2160, upscaled with Lanczos resampling from a 1672 × 941 generated image (1670 × 942 for the cabin clearing). Refinements were made before upscaling, with no added sharpening during the upscale.
 
-- `backgrounds/001-nordic-winter-shadowed-snow.png` is the darker mountain version, with angular rock faces, snow-filled gullies, a varied shoreline forest, and solid lake ice with thin snow patches and subdued green reflections.
-- `backgrounds/002-nordic-winter-aurora-lit-snow.png` retains brighter mountain detail, with fractured rock, naturally settled snow, a dark shoreline forest, and solid ice interrupted by thin matte snow patches.
-- `backgrounds/003-nordic-forest-cabin.png` surrounds the warm-lit log cabin with more fir, pine, and birch trees beside a flowing river, with natural branch detail, small ripples around stones, and a green aurora of delicate filaments and translucent folds.
-- `backgrounds/004-nordic-forest-cabin-clearing.png` shows an open snowy clearing around the cabin, bordered by fir, pine, and birch beside a flowing river, with soft cabin light on the snow and a finely layered green aurora overhead.
-- `backgrounds/005-nordic-frozen-lake-aurora.png` shows a broad frozen lake with a mostly level, tree-lined horizon beneath a low green aurora of delicate filaments and layered folds, reflected softly across clear dark ice with thin fractures, subtle bubbles, and scattered frost.
-- `backgrounds/006-nordic-frozen-lake-valley.png` places the lake between rounded wooded hills, with narrow green aurora rays above the distant slopes and soft reflections across dark ice with fine fractures, trapped bubbles, and sparse frost.
+- `backgrounds/001-nordic-winter-shadowed-snow.webp` is the darker mountain version, with angular rock faces, snow-filled gullies, a varied shoreline forest, and solid lake ice with thin snow patches and subdued green reflections.
+- `backgrounds/002-nordic-winter-aurora-lit-snow.webp` retains brighter mountain detail, with fractured rock, naturally settled snow, a dark shoreline forest, and solid ice interrupted by thin matte snow patches.
+- `backgrounds/003-nordic-forest-cabin.webp` surrounds the warm-lit log cabin with more fir, pine, and birch trees beside a flowing river, with natural branch detail, small ripples around stones, and a green aurora of delicate filaments and translucent folds.
+- `backgrounds/004-nordic-forest-cabin-clearing.webp` shows an open snowy clearing around the cabin, bordered by fir, pine, and birch beside a flowing river, with soft cabin light on the snow and a finely layered green aurora overhead.
+- `backgrounds/005-nordic-frozen-lake-aurora.webp` shows a broad frozen lake with a mostly level, tree-lined horizon beneath a low green aurora of delicate filaments and layered folds, reflected softly across clear dark ice with thin fractures, subtle bubbles, and scattered frost.
+- `backgrounds/006-nordic-frozen-lake-valley.webp` places the lake between rounded wooded hills, with narrow green aurora rays above the distant slopes and soft reflections across dark ice with fine fractures, trapped bubbles, and sparse frost.
 
 Use `omarchy theme bg next` to cycle between the backgrounds after installing the theme.
 
