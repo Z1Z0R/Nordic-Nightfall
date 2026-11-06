@@ -23,10 +23,12 @@ omarchy theme install https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme.gi
 
 ## Optional Files appearance
 
-The theme includes GTK styles for Files and a custom, darker blue variant of the
-Yaru folder icons. The optional appearance hook installs the icon overlay and
-applies the Files colors while Nordic Nightfall is active. When you switch to
-another theme, it restores the GTK stylesheets saved on its first run.
+The optional appearance hook provides GTK styles for Files and a custom, darker
+blue variant of the Yaru folder icons. Its script, styles, and icon assets are
+distributed together in the hook repository. It applies the Files colors while
+Nordic Nightfall is active and restores the GTK stylesheets saved on its first
+run when you switch to another theme. The theme uses Yaru-blue as its base icon
+selection, and the installed hook selects the custom darker icons.
 
 Install the hook separately using the instructions in the
 [Nordic Nightfall theme hook repository](https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme-hook).
@@ -50,6 +52,6 @@ All six included wallpapers were generated and refined specifically for this the
 Use `omarchy theme bg next` to cycle between the backgrounds after installing the theme.
 
 The palette and included generated wallpapers are provided under the MIT License
-in this repository. The adapted Yaru folder icons retain their CC BY-SA 4.0
-license; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+in this repository. Licensing for the optional appearance assets is documented in
+the [hook repository](https://github.com/Z1Z0R/omarchy-nordic-nightfall-theme-hook).
 
